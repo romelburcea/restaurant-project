@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #393E46;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+button{
+    width: 300px;
+    height: 100px;
+}
+
+#homebtn{
+    width: 300px;
+    height: 100px;
+}
